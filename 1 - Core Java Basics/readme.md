@@ -23,3 +23,12 @@
 -   Use the same login as TASK-1 and update the Flag Emoji.
 
       ![indFlag.png](https://github.com/ade3l/CSE1007-Lab/blob/main/1%20-%20Core%20Java%20Basics/res/indFlag.png?raw=true)
+
+<br>
+You can use the following links for finding Unicode value of Indian Flag and convert into Java Syntax Format
+
+-    Unicode Link:  [https://unicode.org/emoji/charts/full-emoji-list.html#1f600](https://unicode.org/emoji/charts/full-emoji-list.html#1f600)
+
+- Unicode to Java Conversion:  [https://r12a.github.io/app-conversion/](https://r12a.github.io/app-conversion/)  
+
+-  (Enable  **"\n etc" checkbox and disable the "ES6" Checkbox under "JS/Java/C" Option)**
