@@ -42,12 +42,12 @@ E.g.
     
     System.out.println(
     
-    courses.stream()
+        courses.stream()
     
-    .mapToLong(e->e.getCourses().stream()
+            .mapToLong(e->e.getCourses().stream()
     
-    .filter(x->x.equals("CSE1001"))
+                 .filter(x->x.equals("CSE1001"))
     
-    .count()
+                  .count()
     
-    ).sum());
+           ).sum());
