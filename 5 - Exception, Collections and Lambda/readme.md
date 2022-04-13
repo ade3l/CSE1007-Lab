@@ -1,4 +1,4 @@
-## 5 Exception, Collections, and Lambda 
+## Activity 5 - Exception, Collections, and Lambda 
 
 You are expected to develop the code using the following concepts in Java  
 -   Exception Handling  
